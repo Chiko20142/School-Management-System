@@ -21,6 +21,7 @@ A python console application built using Object Oriented Programming(OOP)
 
 #Technologies
 - Python 3
+  
 #How to Run
 1. Open a terminal
 2. Navigate to the projector
